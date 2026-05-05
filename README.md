@@ -1,2 +1,2 @@
-# 001chiijioke.github.io
+# 001chijioke.github.io
 personal website
